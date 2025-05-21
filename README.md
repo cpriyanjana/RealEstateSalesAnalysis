@@ -1,5 +1,7 @@
 # Connecticut Real-Estate Explorer (2001 – 2022)
 
+![image](https://github.com/user-attachments/assets/20e3b29d-66f5-4164-9993-cffe9e68f0fa)
+
 Visit the app: **[Real Estate Sales Analysis](https://cpriyanjana.shinyapps.io/RealEstateSalesAnalysis/)**
 
 > **An interactive Shiny dashboard analyzing 1.2M+ residential transactions from the State of Connecticut (2001–2022).**  
@@ -11,6 +13,7 @@ Visit the app: **[Real Estate Sales Analysis](https://cpriyanjana.shinyapps.io/R
 ---
 
 ## Research Requirements
+![image](https://github.com/user-attachments/assets/e09a1e07-fa8d-4eeb-9dcb-29bf6b59088e)
 
 - Clean and harmonize **1.2M+** residential transactions (2001–2022).
 - Summarize market activity at **yearly**, **monthly**, and **geographic** levels.
@@ -20,7 +23,7 @@ Visit the app: **[Real Estate Sales Analysis](https://cpriyanjana.shinyapps.io/R
 
 ---
 
-## Project Scope
+## Project Scope <img src="https://github.com/user-attachments/assets/d1390be3-6912-4ecd-acba-625bbcb2f563" width="50"/>
 
 - Focused on **arms-length residential transactions** only.
 - **Excludes** commercial, land, and non-arms-length (e.g., foreclosures) sales.
